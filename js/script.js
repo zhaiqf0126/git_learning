@@ -13,3 +13,4 @@ for (i = 0; i < acc.length; i++) {
     }
 }
 
+-- 这是 git_learning_02 修改的
