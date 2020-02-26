@@ -13,4 +13,8 @@ for (i = 0; i < acc.length; i++) {
     }
 }
 
+--z这个时候需要手动 合并
 -- 这是 git_learning_02 修改的
+
+--这是git_learning 编辑的
+
